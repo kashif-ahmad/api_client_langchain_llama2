@@ -1,0 +1,7 @@
+To run the api and client, use the following commands:
+
+    api:    
+	prompt>> python app.py (this will start launch LangServe and the API)
+
+    client: 
+	prompt>> python client.py (this will launch client app to consume the api)
